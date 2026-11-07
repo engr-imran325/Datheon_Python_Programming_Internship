@@ -1,6 +1,6 @@
 # Hangman Word Guessing Game
 
-## Project Overview
+## task Overview
 Hangman is a simple command-line word guessing game developed using Python 3. The player tries to guess a hidden word by entering one letter at a time.
 
 The game provides a limited number of incorrect attempts. The player wins by guessing all letters correctly before running out of attempts.
